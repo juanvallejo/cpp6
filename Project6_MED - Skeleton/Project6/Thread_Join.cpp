@@ -6,8 +6,8 @@
 #include "..\includes\DataStore_File.h"
 #include "..\includes\Crypto_AES.h"
 
-const int TOTAL_ADDED_PER_THREAD	=20;
-const int TOTAL_THREADS				=20;
+const int TOTAL_ADDED_PER_THREAD	= 20;
+const int TOTAL_THREADS				= 20;
 const std::string ENCRYPT_FILE1 = "Encryptfile1.txt";
 const std::string ENCRYPT_FILE2 = "Encryptfile2.txt";
 
